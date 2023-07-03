@@ -5,10 +5,10 @@
 - Have Experience with server-side JavaScript/TypeScript tools (NodeJs) including frameworks such as Express, Restify, NextJs, NestJs, etc.<br>
 - Have a basic knowledge of SQL/NoSQL databases such as PostgreSQL, Sqlite, MySqlite, MongoDB; ORM tools Squelize, mongoose, etc.<br>
 - Basic knowledge of AWS for deploying; Amplify and EC2
-
+<!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vm93/) 
-
+-->
 # 💻 Tech Stack:
 
 ### Frontend:
@@ -37,6 +37,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MiljkovicVeljko&theme=discord&no-frame=true&no-bg=false&margin-w=4)
--->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MiljkovicVeljko&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
