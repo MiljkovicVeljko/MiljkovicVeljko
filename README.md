@@ -1,14 +1,7 @@
-# 💫 About Me:
-- Professional with 3+ years of experience in the IT industry<br>
-- Expert knowledge of modern HTML, CSS/SASS, and its frameworks<br>
-- Solid Knowledge of modern React application and its ecosystem; also worked with various client-side JavaScript/TypeScript tools such as Angular, VueJs, etc.<br>
-- Have Experience with server-side JavaScript/TypeScript tools (NodeJs) including frameworks such as Express, Restify, NextJs, NestJs, etc.<br>
-- Have a basic knowledge of SQL/NoSQL databases such as PostgreSQL, Sqlite, MySqlite, MongoDB; ORM tools Squelize, mongoose, etc.<br>
-- Basic knowledge of AWS for deploying; Amplify and EC2
-<!--
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vm93/) 
--->
+
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
